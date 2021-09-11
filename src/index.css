@@ -1,0 +1,96 @@
+.navbar-brand {
+   color: #00c4ff !important;
+}
+
+nav.navbar .nav-item a.active {
+   color: #00c4ff !important;
+}
+
+nav.navbar input.form-control.me-2 {
+   background-color: black;
+   color: #fff;
+}
+
+.homepage .nav .text-decoration-none {
+   color: unset;
+}
+
+.homepage .nav .nav-link.p-0 a {
+   padding: 8px 16px;
+   display: inline-block;
+}
+
+.myform {
+   width: 80%;
+   margin: 30px auto 10px;
+   border: 1px solid #dfdfdf;
+   padding: 15px;
+   box-shadow: 1px 6px 12px #888888;
+}
+
+.regester-btn {
+   text-align: center;
+   margin-top: 20px;
+}
+
+.form {
+   color: red;
+}
+.form .form-label {
+   color: #808080;
+}
+
+.row .card {
+   max-width: 102%;
+}
+
+.myrate {
+   background-color: #e9e9e9;
+   text-align: center;
+   padding: 20px;
+   box-shadow: 1px 1px 10px #b0a1a1;
+}
+
+#myrate {
+   display: none;
+}
+
+.block {
+   display: inline-block !important;
+}
+
+.card {
+   background-color: #f2f2f2;
+}
+
+h5.card-title {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 1;
+   -webkit-box-orient: vertical;
+}
+
+p.card-text {
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2;
+   -webkit-box-orient: vertical;
+   min-height: 50px;
+}
+
+.myform {
+   background: rgb(33 37 41);
+   box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
+   backdrop-filter: blur(17.5px);
+   -webkit-backdrop-filter: blur(17.5px);
+   border-radius: 10px;
+}
+
+p.card-text.d-flex.justify-content-between span {
+   max-height: 29px;
+}
+
+.card-img,
+.card-img-top {
+   max-height: 310px;
+}
